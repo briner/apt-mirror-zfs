@@ -1,0 +1,1 @@
+28 2 * * * root /usr/local/bin/apt-mirror-zfs rotate
